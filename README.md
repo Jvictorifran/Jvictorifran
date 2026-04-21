@@ -70,7 +70,7 @@
     title="Next"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://worldvectorlogo.com/logo/next-js"
+    src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000"
  />
 <br/>
 <br/>
