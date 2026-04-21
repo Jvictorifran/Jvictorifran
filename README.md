@@ -63,5 +63,14 @@
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/b5a1b657-0be4-4c61-a2c9-26bffe888fd3"
  />
+
+   <img 
+    align="left" 
+    alt="Next" 
+    title="Next"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://worldvectorlogo.com/logo/next-js"
+ />
 <br/>
 <br/>
