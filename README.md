@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
- Sou João Victor Candido Ifran, desenvolvedor em estudo há três anos. Atualmente, estou focado em back-end, mas tenho noção de front-end, o que me permite ter uma visão mais completa do desenvolvimento de aplicações.
+ Sou João Victor Candido Ifran, desenvolvedor em estudo há quatro anos. Atualmente, estou focado em back-end, mas tenho noção de front-end, o que me permite ter uma visão mais completa do desenvolvimento de aplicações.
 
 ### 🤖 Linguagens e Tecnologias
 
