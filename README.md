@@ -81,12 +81,16 @@
     src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
     />
     <img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg](https://commons.wikimedia.org/wiki/File:Laravel.svg"
+     align="left" 
+     alt="laravel"
+     title="laravel"
+     width="30px" 
+     height="30px" 
+     style="padding-right: 10px;"
+     alt="image" 
+     src="https://github.com/user-attachments/assets/d214aaca-dd6b-45ab-ba68-28125635bbba" 
+     />
+
     />
 <br/>
 <br/>
