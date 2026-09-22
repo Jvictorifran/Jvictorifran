@@ -80,5 +80,13 @@
     style="padding-right: 10px;"
     src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
     />
+    <img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg](https://commons.wikimedia.org/wiki/File:Laravel.svg"
+    />
 <br/>
 <br/>
